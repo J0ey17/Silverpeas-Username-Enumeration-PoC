@@ -61,7 +61,7 @@ This script is provided for educational purposes and for demonstrating the vulne
 * **Discovered:** 08/04/2025
 * **Reported to Vendor (Silverpeas):** 08/04/2025
 * **Vendor Acknowledged / Assigned ID (#14829):** 09/04/2025
-* **Patch Released (Version 6.4.3):** 11/03/2025
+* **Patch Released (Version 6.4.3):** 11/04/2025
 * **PoC Published:** 14/04/2025
 
 ## References
