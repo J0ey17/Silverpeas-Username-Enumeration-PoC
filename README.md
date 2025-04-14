@@ -54,9 +54,9 @@ This script is provided for educational purposes and for demonstrating the vulne
 
 ## Author / Credit
 
-* **(Shantanu Saxena / j0ey17)**
+* **Shantanu Saxena / j0ey17**
 
-## Disclosure Timeline (Optional but Recommended)
+## Disclosure Timeline
 
 * **Discovered:** 08/04/2025
 * **Reported to Vendor (Silverpeas):** 08/04/2025
