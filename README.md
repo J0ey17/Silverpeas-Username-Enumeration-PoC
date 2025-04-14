@@ -65,4 +65,4 @@ This script is provided for educational purposes and for demonstrating the vulne
 * **PoC Published:** 14/04/2025
 
 ## References
-* **[(Link to Silverpeas advisory or release notes mentioning the fix, if available)](https://github.com/Silverpeas/Silverpeas-Core/pull/1399)**
+* **[(Vendor Fix PR)](https://github.com/Silverpeas/Silverpeas-Core/pull/1399)**
