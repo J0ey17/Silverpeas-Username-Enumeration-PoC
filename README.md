@@ -63,7 +63,7 @@ This script is provided for educational purposes and for demonstrating the vulne
 * **Vendor Acknowledged / Assigned ID (#14829):** 09/04/2025
 * **Patch Released (Version 6.4.3):** 11/04/2025
 * **PoC Published:** 14/04/2025
-* **CVE ID: CVE-2025-46047
+* **CVE ID: CVE-2025-46047**
 
 ## References
 * **[(Vendor Fix PR)](https://github.com/Silverpeas/Silverpeas-Core/pull/1399)**
